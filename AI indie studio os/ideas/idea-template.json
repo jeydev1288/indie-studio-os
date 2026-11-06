@@ -1,0 +1,20 @@
+[
+  {
+    "id": "TEMPLATE-ONLY",
+    "title": "가상 예시 제목",
+    "customer": "가상 대상",
+    "problem": "가상 문제",
+    "hypotheses": ["가설 예시: 실제 조사 결과가 아님"],
+    "facts": [],
+    "scores": {
+      "severity": null,
+      "access": null,
+      "gap": null,
+      "feasibility": null,
+      "willingness": null
+    },
+    "score_reasons": {},
+    "unknowns": ["실제 고객 문제와 수요 미조사"],
+    "next_validation": "사용자 승인된 조사 계획에 따라 확인"
+  }
+]
